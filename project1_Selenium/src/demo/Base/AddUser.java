@@ -73,7 +73,8 @@ public class AddUser {
 
 		// 7.Click on Save button
 		// btnSave.click();
-
+		
+		System.out.println("Demo for GITHUB");
 	}
 
 }
