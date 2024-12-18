@@ -1,0 +1,64 @@
+String Programs:
+________________
+
+1) Java Program to count the total number of characters in a string.
+
+2) Java Program to count the total number of vowels and consonants in a string.
+
+3) Java Program to remove all the white spaces from a string.
+
+4) Java Program to find maximum and minimum occurring character in a string.
+
+5) Reserve String without reverse() function.
+
+6) Java Program to determine whether two strings are the anagram. 
+
+(Note : Two Strings are called the anagram if they contain the same characters.
+ However, the order or sequence of the characters can be different.)
+
+7) Java Program to find all the permutations of a string
+
+8) Java Program to separate the Individual Characters from a String
+
+9)Java Program to find Reverse of the string with Reverse function
+
+10) Java Program to count the total number of characters in a string 
+
+11) Java Program to find all subsets of a string
+
+13) Java Program to determine whether one string is a rotation of another
+
+14) Write a Java program to count the number of words in a string
+
+15) Java Program to toggle each word in String
+
+16) Program to print smallest and biggest possible palindrome word in a given string
+
+17) Java Program to swap two string variables without using third or temp variable 
+
+18) Java Program to replace lower-case characters with upper-case and vice-versa
+
+19)  Java String Program to Remove leading zeros
+     Input : 00000123569
+     Output : 123569
+
+DSA Programs:
+______________
+
+20) Program to Extract Substring from a String with Equal 0, 1, and 2.
+   
+     Input: str = “102100211”
+
+     Output: 5
+
+Explanation: "102" , "021" , "210" , " 021" , "210021" 
+these are combinations can be formed where the occurrence of 0 , 1 and 2 all are equal.
+
+
+
+ 
+
+
+
+
+
